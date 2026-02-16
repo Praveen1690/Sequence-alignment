@@ -1,0 +1,3 @@
+Best Alignment Score: 17.0
+TAACAAATTATCTCG
+TCACAAA-GATCTCG

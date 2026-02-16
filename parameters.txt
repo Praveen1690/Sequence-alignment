@@ -1,0 +1,5 @@
+match=2
+mismatch=-1
+gap_open=-5
+gap_extend=-1
+
